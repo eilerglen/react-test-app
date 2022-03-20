@@ -1,24 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import styles from './app.module.css';
+import DogImage from './components/dog-image/dog-image';
+import Header from './components/header';
+import dogImagePath from './images/dog.jpg'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <div className={styles.app}>
+      <Header/>
+      <DogImage image = {dogImagePath} name ='Doge'  description ="2013, холст, масло"/>
+  </div>
   );
 }
 
