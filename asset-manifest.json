@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-test-app/static/css/main.e7173d02.css",
+    "main.js": "/react-test-app/static/js/main.f61026c9.js",
+    "static/js/787.ee8b3b49.chunk.js": "/react-test-app/static/js/787.ee8b3b49.chunk.js",
+    "static/media/dog.jpg": "/react-test-app/static/media/dog.c6830fe622026cab733b.jpg",
+    "index.html": "/react-test-app/index.html",
+    "main.e7173d02.css.map": "/react-test-app/static/css/main.e7173d02.css.map",
+    "main.f61026c9.js.map": "/react-test-app/static/js/main.f61026c9.js.map",
+    "787.ee8b3b49.chunk.js.map": "/react-test-app/static/js/787.ee8b3b49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7173d02.css",
+    "static/js/main.f61026c9.js"
+  ]
+}
