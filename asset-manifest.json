@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/react-test-app/static/css/main.e7173d02.css",
-    "main.js": "/react-test-app/static/js/main.f61026c9.js",
+    "main.css": "/react-test-app/static/css/main.4a544961.css",
+    "main.js": "/react-test-app/static/js/main.7e84af93.js",
     "static/js/787.ee8b3b49.chunk.js": "/react-test-app/static/js/787.ee8b3b49.chunk.js",
-    "static/media/dog.jpg": "/react-test-app/static/media/dog.c6830fe622026cab733b.jpg",
+    "static/media/videocard.png": "/react-test-app/static/media/videocard.19d0d0a38bc9928da17a.png",
+    "static/media/monitor.png": "/react-test-app/static/media/monitor.17f99362ba352b3c077e.png",
+    "static/media/wheel.png": "/react-test-app/static/media/wheel.3bfa4977b163f5e5cee4.png",
+    "static/media/drink.png": "/react-test-app/static/media/drink.3b11cbe40f3d5d04c765.png",
+    "static/media/mouse.png": "/react-test-app/static/media/mouse.1e41669fbc27c30a79a5.png",
+    "static/media/particles.png": "/react-test-app/static/media/particles.06ba8a7039aade56d1cf.png",
+    "static/media/lock.svg": "/react-test-app/static/media/lock.063b1469360ebe25e5dbff2070baeeb1.svg",
+    "static/media/retry.svg": "/react-test-app/static/media/retry.9cc09078f933027c0811c9ca668c8b8f.svg",
     "index.html": "/react-test-app/index.html",
-    "main.e7173d02.css.map": "/react-test-app/static/css/main.e7173d02.css.map",
-    "main.f61026c9.js.map": "/react-test-app/static/js/main.f61026c9.js.map",
+    "static/media/check.svg": "/react-test-app/static/media/check.a304e96bfe181d7e3e20fdee0f4b0379.svg",
+    "main.4a544961.css.map": "/react-test-app/static/css/main.4a544961.css.map",
+    "main.7e84af93.js.map": "/react-test-app/static/js/main.7e84af93.js.map",
     "787.ee8b3b49.chunk.js.map": "/react-test-app/static/js/787.ee8b3b49.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7173d02.css",
-    "static/js/main.f61026c9.js"
+    "static/css/main.4a544961.css",
+    "static/js/main.7e84af93.js"
   ]
 }
