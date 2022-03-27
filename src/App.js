@@ -1,13 +1,17 @@
 import styles from './app.module.css';
-import DogImage from './components/dog-image/dog-image';
+import Lootboxer from './components/lootboxer/lootboxer';
 import Header from './components/header';
-import dogImagePath from './images/dog.jpg'
 
 function App() {
   return (
-    <div className={styles.app}>
-      <Header/>
-      <DogImage image = {dogImagePath} name ='Doge'  description ="2013, холст, масло"/>
+   
+    <div className={styles.root}>
+       <Header />
+    <div className={styles.blur}>
+    <div className={styles.wrapper}>
+      <Lootboxer />
+    </div>  
+    </div>
   </div>
   );
 }
